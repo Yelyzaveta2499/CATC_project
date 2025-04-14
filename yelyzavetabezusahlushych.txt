@@ -1,0 +1,63 @@
+===== System Information Report =====
+Generated on: Mon Apr 14 22:07:17 UTC 2025
+
+>>> DATE
+Mon Apr 14 22:07:17 UTC 2025
+
+------------------------------
+
+>>> HOSTNAME
+YelyzavetaBezusaHlushychCATC
+
+------------------------------
+
+>>> ARCHITECTURE (arch)
+x86_64
+
+------------------------------
+
+>>> UNAME -a
+Linux YelyzavetaBezusaHlushychCATC 6.8.0-1021-azure #25-Ubuntu SMP Wed Jan 15 20:45:09 UTC 2025 x86_64 x86_64 x86_64 GNU/Linux
+
+------------------------------
+
+>>> UPTIME
+ 22:07:17 up 15 days,  4:49,  1 user,  load average: 0.00, 0.00, 0.00
+
+------------------------------
+
+>>> WHOAMI
+yelyzavetabezusahlushych
+
+------------------------------
+
+>>> WHO (Logged-in users)
+yelyzavetabezusahlushych pts/0        2025-04-14 21:15 (80.233.60.132)
+
+------------------------------
+
+>>> W (Who is doing what)
+ 22:07:17 up 15 days,  4:49,  1 user,  load average: 0.00, 0.00, 0.00
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU  WHAT
+yelyzave          80.233.60.132    21:15    4days  0.00s   ?    sshd: yelyzavetabezusahlushych [priv]
+
+------------------------------
+
+>>> TOP PROCESSES (first 10 lines)
+top - 22:07:18 up 15 days,  4:49,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 111 total,   1 running, 110 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  8.3 us,  0.0 sy,  0.0 ni, 83.3 id,  8.3 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :    842.8 total,     84.1 free,    431.1 used,    483.1 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.    411.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+      1 root      20   0   22920  13824   9472 S   0.0   1.6   0:46.20 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.15 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+
+------------------------------
+
+>>> HISTORY (last 10 commands)
+
+===== END OF REPORT =====
+
